@@ -1,0 +1,4 @@
+01.Kullanıcıdan aranacak bir ifade girmesini isteyiniz
+02.Kullanıcıdan ifadenin içinde aranacak bir harf girmseini isteyiniz
+
+ve girilen ifadede kullanıcını girdiği harften kaçtane olduğunu bulan kodu ekrana yazdırınız

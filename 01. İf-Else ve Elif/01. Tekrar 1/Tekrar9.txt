@@ -1,0 +1,1 @@
+9) Kullanıcı tarafından girilen hava sıcaklığı 5 °C ve altındaysa “Soğuk”; 6-14 °C arasındaysa “Ilık”; 15 °C ve daha fazlaysa “Sıcak” çıktılarını veren kodu yazınız. 

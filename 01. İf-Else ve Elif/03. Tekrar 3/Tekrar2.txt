@@ -1,0 +1,6 @@
+bir üçgen iç açılarının toplamı 180dir
+
+eğer üçgen açılarının toplamı 18 ise
+print("Bu bir üçgendir")
+
+eğer değilse bu bir üçgen değildir

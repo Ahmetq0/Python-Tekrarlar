@@ -1,0 +1,8 @@
+ kullanıcıdan girilen hava sıcaklığı
+
+ eğer 5 derece altındaysa:
+ print(hava soğuk)
+ eğer 6-14 derece arasında ise:
+ print(hava ılık)
+ eğer 15 derecden fazla ise:
+ print(hava sıcak)

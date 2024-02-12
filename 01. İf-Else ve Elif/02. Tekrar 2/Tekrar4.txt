@@ -1,0 +1,8 @@
+ürün1 ve
+ürün2 diye 2 tane değişken girilicek 
+
+eğer toplam fiyat 200 altındaysa
+print(ödenecek miktar...tl)
+
+eğer toplam fiyat 200 üstündeyse %25 indirim yap
+print(İndirimden sonra ödenecek miktar....tl )diye yazdır

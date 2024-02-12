@@ -1,0 +1,12 @@
+01.)Program ilk açılınca müşteriye bütçe sorulacak
+02.)Alışverişi bitirmek için "q" basılacak eğer basılmassa 
+alışverişe devam edecek.
+03.)Ürünler liste halinde oluşturulacak ve değerleri girilecek
+ve ekranna yzadırılacak 
+04.)Müşteri her malzeme aldığı zaman bütçesi kontrol edilecek ve 
+eğer bütçesi yeterli ise print"alışverişe devam edebilirsiniz"
+eğer bütçesi yetmez ise print"bütçeniz yeterli değil" desin
+05.)Müşterinin aldığı eşyalar sepete eklenip en son ekrana yzadırılacak
+ve kalan bütçede altına yzadırılacak
+06.)Eğer müşterinin bütçesi bittiyse programdan çıkılsın
+07.)Eğer müşteri Alışverişi bitirmek isterse ise programdan çıkılacak

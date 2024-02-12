@@ -1,0 +1,5 @@
+1. Otopark diye bir değişken gir 
+eğer 1 saati geçmediyse 5 tl
+eğer 1 saat ve 5 saat arası ise saat başı 4 tl al
+eğer 5 saaten fazla ise saat başı 3 tl al
+

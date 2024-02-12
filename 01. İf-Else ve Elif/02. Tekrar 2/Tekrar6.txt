@@ -1,0 +1,5 @@
+ girilen sayı hem 3e hemde 5e tam bölünüyorsa
+ print(15e tam bölünür)
+ eğer girilen sayı hem 3e hemde 5e tam bölünmüyorsa:
+ print(15e tam bölünmez)
+ 

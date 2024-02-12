@@ -1,0 +1,9 @@
+işlemci ve
+ram diye 2 tane değişken tanı 5
+
+eğer ram "16gb"ise:
+işlemci ise "i7"
+print(Kurulum başarılı)
+
+eğer değilse:
+print(kurulum başarısız)

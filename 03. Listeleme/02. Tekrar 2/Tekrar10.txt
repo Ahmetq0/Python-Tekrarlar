@@ -1,0 +1,5 @@
+10) 5 ile 15 (15 dâhil) arasındaki tek sayıları bir listeye alınız. 6 ile 16 (16 dâhil) arasındaki çift sayıları da başka bir listeye alınız. 
+a)  Oluşturduğunuz tek sayılar listesine çift sayıları ekleyerek iç içe bir liste hazırlayınız. 
+b)  Ekran çıktısı olarak 7 14 üreten kodu yazınız. 
+c)  Ekrana sırası
+yla çift sayılar listesinden 10 ve 12; tek sayılar listesinden 13 yazdırınız.

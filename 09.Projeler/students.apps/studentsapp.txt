@@ -1,0 +1,22 @@
+                                        Namaz Yoklama Uygulaması
+01.Birinci olarak sepet diye bir boş liste yazılacak 
+02.Ve talebe listesi olan bir liste olacak
+02.While True döngüsü açılacak  
+03.Soru sorulacak "Hangi işlemi yaptırmak istersiniz" diye 
+    a)Namaz Yoklaması Al 
+    b)Günün Yemekhane nÖbetçileri
+04.Eğer Kullanıcı namaz yoklamasını seçer ise hangi vakit olduğu çıkacak ve kullanıcı hangi vakit olduğunu seçecek
+05.Eğer kullanıcı namaz yoklamasını seçer ise talebe listesi çıkacak ve seçim yapması için soru sorulacak
+06.Ve kullanıcı gelmeyen talebeleri yazıp listeye ekliyecek
+07.En sonunda kullanıcıya başka istedğiniz bir şey varmı diye sorulacak eğer kullanıcı evet der ise döngü başa dönecek
+08.Eğer kullanıcı yok der ise gelmeyen talebeler namaz vakti ile yazdırılacak döngü bitecek
+
+                                   Günün Yemekhane Nöbetçileri Uygulaması
+01.Yine Birinci olarak sepet diye boş bir liste olacak 
+02.Ve talebe listesi diye yine bir liste olacak
+03.Aynı hangi işlemi yaptırmak istesiniz diye soru sorulacak
+04.Eğer Kullanıcı yemekhane nöbetçilerini seçer ise öğünler gösterilecek ve hangi öğün olduğu sorulacak
+05.Sonra  talebe listesi çıkacak ve hangi talebler Günün Yemekhane Nöbetçisi diye sorulacak
+06.Kullanıcı hangi talebe olduğunu seçecek ve o sçtiği kişiler günün yemekhane nöbetçileri diye sepete eklenecek
+07.Kullanıcıya başka yaptırmak istediğiniz bir işlem varmı die sorulacak eğer kullanıcı evet dei ise Döngü başa saracak
+08.Eğer Hayır der isen döngü durdurulacak 

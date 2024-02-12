@@ -1,0 +1,10 @@
+Hava durumu uygulaması 
+
+eğer Hava 5 derceden küçük ise
+print(Hava soğuk)
+
+eğer hava 6 ve 14 derece arasındaysa
+print(Hava ılık)
+
+eğer hava 15 dereceden fazla ise
+print(Hava sıcak)

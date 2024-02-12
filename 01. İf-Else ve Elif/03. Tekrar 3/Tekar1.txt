@@ -1,0 +1,4 @@
+not1 
+not2
+ve performans notu diye 3 tane değişken al
+ve bu üçünün ortalamasını hesapla

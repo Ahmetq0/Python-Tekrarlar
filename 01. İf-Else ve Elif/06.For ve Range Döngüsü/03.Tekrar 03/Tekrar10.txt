@@ -1,0 +1,1 @@
+10) Kullanıcıdan bir ifade ve aranacak harf girmesini isteyiniz. Girilen ifadede kaç tane “a” harfi olduğunu bularak ekrana yazdırınız.

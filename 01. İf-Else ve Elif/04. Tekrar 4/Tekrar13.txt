@@ -1,0 +1,10 @@
+kullanıcıdan maaş , çalışma yılı ve ad isteyiniz
+
+eğer 0 ve 5 arasındaysa
+print(yüzde 10 zam)
+
+eğer 6 ve 10 yıl arasında ise
+print(yüzde 15 zam)
+
+eğer 11 seneden ffazla ise
+print(yüzde 25 zam yap)

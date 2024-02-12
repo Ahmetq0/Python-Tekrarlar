@@ -1,0 +1,1 @@
+01.Girilen sayıların faktöriyelini bul

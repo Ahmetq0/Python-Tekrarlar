@@ -1,0 +1,7 @@
+otopark diye bir değişken gir 
+
+eğer 1 saatten az kalırsa 5 tl
+
+eğer 1-5 saat arası kalırsa saat başı 4
+
+eğer 5 saatten fazla kalırsa saat başı 3

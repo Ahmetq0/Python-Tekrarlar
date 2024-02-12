@@ -1,0 +1,5 @@
+01.Kullanıcıdan 8 karekterli bir şifre isteyiniz 
+eğer 8 karekterden daha büyük veya daha küçük bir şifre girer ise
+print(Şifreniz 8 karekterli olmalıdır)
+eğer 8 karekterli bir şifre girer ise 
+print(Şifreniz kaydedildi)

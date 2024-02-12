@@ -1,0 +1,1 @@
+12)  Random metodu ile 0-20 arası bir sayı seçerek kullanıcının bu sayıyı tahmin etmesini isteyiniz. Kullanıcının tahminine göre arttır ve azalt şeklinde uyarılar verdirerek doğru sonuca ulaşılmasını sağlayınız.

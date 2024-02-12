@@ -1,0 +1,9 @@
+kullanıcıdan 
+ad ve
+şifre sorulsun 
+
+eğer kullanıcının adı "Türkiye" şifrede "1923" ise:
+print(Giriş başarılı)desin
+
+eğer kullanıcı adı hatalı ise:
+print(Kullanıcı adı veya şifre hatalı desin)

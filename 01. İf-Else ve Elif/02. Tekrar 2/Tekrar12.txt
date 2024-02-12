@@ -1,0 +1,16 @@
+2 tane değer gir 
+boy ve 
+ağırlık
+
+vki=boy*boy/ağırlık
+
+eğer vki 18 ve 25 arasındaysa
+print(Normal)
+
+eğer vki 25 ve 30 arasındaysa
+print(kilolu)
+
+eğer vki 30 dan fazla ise
+print(ciddi obez)
+
+diye yazdır

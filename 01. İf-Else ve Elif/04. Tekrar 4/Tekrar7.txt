@@ -1,0 +1,7 @@
+bir pcye en az i7 işlemci ve 16gb ram lazım
+
+eğer bu şartları karşılıyor ise
+print("Kurulum Başarılı")
+
+eğer sağlamıyor ise:
+print("Kurulum Başarısız)

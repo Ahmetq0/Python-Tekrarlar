@@ -1,0 +1,1 @@
+13) 1-30 arasındaki sayıları bir liste hâline getirerek continue ile sadece tek olanları ekrana yazdırınız.

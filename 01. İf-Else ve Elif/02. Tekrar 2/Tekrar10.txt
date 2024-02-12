@@ -1,0 +1,5 @@
+otopark ücret listesi:
+1 saate kadar 5 
+1-5 saat arası saat başı 4
+5 saatten fazla ise saat başı 3 
+yazdır

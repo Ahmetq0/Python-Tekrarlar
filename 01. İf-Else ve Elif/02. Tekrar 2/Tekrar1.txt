@@ -1,0 +1,4 @@
+1.kullanıcıdan
+sınav1
+sınav2
+ve performans iste ve bu 3 notun ortalamasını al

@@ -1,0 +1,2 @@
+01.Random metodu ile 0 ile 20 arasında bir sayı seçtir ve kullanıcıdan bu sayıyı tahmin etmesini iste
+kullanıcıya sayıyı azalt veya arttır diyen kodu yazdırınız

@@ -1,0 +1,9 @@
+                                           Kapsamlı Uygulama
+Kayıt Bölümü:
+01)Öncelikle users diye kullanıcının kayıt olması için boş bir liste oluşturalacak
+02)Ve kullanıcıdan kayıt için usurname ve password alıncak ve print("Kayıt Başarılı bir şekilde yapılmıştır") desin
+03)Ve kullanıcının girdiği usurname ve password değerini listeye eklesin
+
+Giriş Bölümü:
+01)Öncelikle Kullanıcıdan usurname ve password istesin ve eğer usurname ve password kullanıcı listesindeki değerler ile 
+uyuşuyorsa print("Hoglediniz")desin

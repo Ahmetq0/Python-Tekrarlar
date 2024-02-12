@@ -1,0 +1,1 @@
+01. 1 ile 30 arasındaki tek sayıları continue ile ekrana yazdırınız

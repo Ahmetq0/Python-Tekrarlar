@@ -1,0 +1,4 @@
+ortalam hesaplama
+
+kullanıcıdan 3 tane not isteyiniz
+ve bu 3 notun ortalamasını alınız

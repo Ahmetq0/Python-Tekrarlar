@@ -1,0 +1,2 @@
+haftanın günlerini pazartesiden başlayıp cumaya kadar listeleyen
+ve 4. indeks konumunu bulan bir liste yazdır

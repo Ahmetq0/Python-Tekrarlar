@@ -1,0 +1,1 @@
+3’ten başlayarak 41’e kadar olan sayıları 5’er arttırarak for döngüsü ile ekrana yazdırınız. 

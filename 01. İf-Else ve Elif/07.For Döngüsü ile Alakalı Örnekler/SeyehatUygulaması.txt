@@ -1,0 +1,2 @@
+01.Bir gezici farklı farklı şehirler gezmek ve bu şheirlerin içindeki aktiviteleri yapmak istiyor
+02.Bu gezici gezdiği yerler  listeye alınacak ve her gezdiği mekan ve şehir listeye alınacak

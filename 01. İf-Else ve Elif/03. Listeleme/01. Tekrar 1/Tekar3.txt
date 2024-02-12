@@ -1,0 +1,6 @@
+sırasıyla
+pi sayısı
+inç biriminin cm olarak karşılığı
+mikro işlemcilerinin kısaltılması
+kullandığın işletim sisteminin adı
+48 bitin byte olarak karşılığı liste haline getir ve yazdır

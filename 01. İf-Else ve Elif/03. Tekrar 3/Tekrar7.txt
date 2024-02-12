@@ -1,0 +1,7 @@
+bir bilgisayarın kurulması için "i7" işlemci
+ve "16gb" ram lazım
+bunları karşılıyor ise 
+print("Kurulum başarılı")
+
+bunları karşılamıyorsa 
+print("Kurulum başarısız")

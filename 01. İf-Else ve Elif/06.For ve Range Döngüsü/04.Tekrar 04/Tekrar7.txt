@@ -1,0 +1,1 @@
+01. Girilen sayının faktoriyelini bulup ekrana yazdırınız

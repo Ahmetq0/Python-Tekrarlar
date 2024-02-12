@@ -1,0 +1,10 @@
+girilen plaka kodu 
+
+eğer 06 ise ankara
+
+eğer 07 ise antalya
+
+eğer 08 ise artvin
+
+
+diye yazdır

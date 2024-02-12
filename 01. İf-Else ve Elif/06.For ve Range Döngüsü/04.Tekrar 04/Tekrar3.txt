@@ -1,0 +1,1 @@
+01. 3 ten başlayıp 41’e kadar olan sayıları 5’er 5’er arttırarak yazdırınız

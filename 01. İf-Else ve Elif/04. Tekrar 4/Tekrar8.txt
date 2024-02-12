@@ -1,0 +1,13 @@
+plaka diye bir değişken tanı
+
+eğer plaka 06 ise
+print(Ankara)
+
+eğer plaka 07 ise
+print(Antalya)
+
+eğer plaka 08 ise
+print(Artvin)
+
+değilse 
+print(Türkiye)

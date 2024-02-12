@@ -1,0 +1,6 @@
+                                Cleaning and Furnishing Applications
+01.Temizlik deposu olacak içinde temizlik malzemeleri ve adetleri olacak şekilde 
+02.Uygulama girişinde 1. olarak hangi kat mesulu olduğu ve kaçıncı kat olduğu yazılacak
+03.Döngü başlatılacak ve gelen kat mesulune ne isterse aded şeklinde  verilecek  ve sonra bidaha sorulacak
+04.Ne istersiniz diye eğer başka bir şey istemiyor ise 
+05.Döngüden çıkış yapılacak ve aldıkları aded ve ne aldığı yazılacak ve program kapanacak

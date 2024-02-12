@@ -1,0 +1,1 @@
+1) Kullanıcıdan 1 ile 5 arasında bir sayı girmesini isteyiniz. Kullanıcı 3 sayısını girdiğinde break komutu ile döngüden çıkılarak “3 sayısı girildi ve döngü sona erdi” çıktısı veren kodu yazınız. 

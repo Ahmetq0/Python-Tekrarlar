@@ -1,0 +1,9 @@
+bir hava firması max 20 kilo bagaj hakkı vermektedir
+
+sonraki her kilo için 10 tl artı ücret almaktadır
+
+eğer bagaj hakkı 20 i geçerse 
+print(Fazla bagaj hakkı için ödemeniz gerken ücret =)
+
+eğer bagaj hakkı 20 i geçmezse
+print(Ek ücret ödemenize gerek yoktur)

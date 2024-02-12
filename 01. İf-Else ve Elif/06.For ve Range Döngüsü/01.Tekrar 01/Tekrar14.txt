@@ -1,0 +1,2 @@
+01.Random metodu ile 0 ile 20 arasında bir sayı iste ve kullanıcıdan bunu tahmin etmesini iste
+kullanıcya azalt ve arttır diyerek yönlerdir

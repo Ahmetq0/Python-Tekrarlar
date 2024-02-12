@@ -1,0 +1,1 @@
+11) 1 ile 100 arasında rastgele 6 sayı seçerek ekrana yazdırınız. 

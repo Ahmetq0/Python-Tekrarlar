@@ -1,0 +1,10 @@
+bagaj hakkı diye bir değişken tanımla
+ve bu bagaj hakkı en fazla 20 kilodur
+20 kilodan sonraki her kilo için ekstra 10 tl bagaj hakkı bagaj hakkı 
+alınacaktır
+
+eğer kullanıcının bagaj hakkı 20den fazla ise
+print(fazla bagaj hakkı için ödemeniz gereken miktar)diye yazdır
+
+eğer kullanıcı verilen bagaj hakkını geçmediyse 
+print(herhangi bir ücret ödemeniz gerekmiyor)desin

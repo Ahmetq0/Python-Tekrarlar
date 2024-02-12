@@ -1,0 +1,1 @@
+1 ile 100 arası rastgele 6 sayı çıkarınız

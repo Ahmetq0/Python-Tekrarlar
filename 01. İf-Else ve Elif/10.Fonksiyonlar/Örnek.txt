@@ -1,0 +1,11 @@
+                                             Manav Uygulaması
+1.)İlk olarak meyvelerin fiyatları ve meyveler olacak bir liste olacak
+2.)Ve manav sepeti olacak
+3.)Total diye bir değişken olacak ve müşterinin aldığı ürünlerin fiyatları orda toplanım yazılacak
+4.)While Döngüsü açılacak
+5.)For döngüsü ile meyveler ve fiyatları ekrana yazdırılacak
+6.)Müşteriye sorulacak hangi meyveden kaç adet almak istersiniz diye
+7.)Almak istediği meyveyi yazdıktan sonra fiyatı totala eklenecek
+8.)Aldığı ürün ve kaç adet aldığı ve toplam fiyatı ekrana yazılacak
+9.)Müşteriye Sorulacak başka bir isteğiniz vermı diye 
+10.)Eğer Müşteri "Evet" der ise uygulama devam edecek "Hayır" der ise Uygulamadan çıkış yapılacak

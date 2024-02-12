@@ -1,0 +1,9 @@
+sırasıya
+
+1.pi sayıs
+2.inç biriminin cm olarak karşılığı
+3.mikro işlemcilerin kısaltımı
+4.kullandığım işletim sistemi adı
+5.48 bit byte olarak karşılığı
+
+ekrana yazdır

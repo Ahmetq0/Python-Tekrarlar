@@ -1,0 +1,6 @@
+üçgen iç açılarının toplamı 180 derecedir
+
+eğer kullanıcının girdiği sayi 180 ise 
+print(bu bir üçgendir)
+eğer 180den büyük veya küçüük ise 
+print(bu bir üçgen değildir)

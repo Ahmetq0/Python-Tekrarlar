@@ -1,0 +1,1 @@
+01. 50’den 20’ye kadar olan sayıları -3 azaltarak yazdırınız

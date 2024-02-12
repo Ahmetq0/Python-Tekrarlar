@@ -1,0 +1,17 @@
+kullanıcıdan 
+boy ve
+kilo değişkenlerini isteyiniz
+
+vki=boy*2/kilo
+
+eğer vki 18 ve 25 arasındaysa
+print(Normal)
+
+eğer vki 25 ve 30 arasındaysa
+print(Kilolu)
+
+eğer vki 30 ve 35 arasındaysa
+print(obez)
+
+eğer 35den fazla ise 
+print(ciddi obez)

@@ -1,0 +1,2 @@
+7) Bir programın bilgisayara kurulması için i7 işlemci ya da en az 8 GB RAM belleğe ihtiyaç duyulmaktadır. Şartlar sağlanıyorsa “Kurulum uygun”; sağlanmıyorsa “Kurulum uygun değil” çıktıları veren programı yazınız.
+

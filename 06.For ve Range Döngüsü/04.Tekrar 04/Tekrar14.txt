@@ -1,0 +1,3 @@
+01.Random metodu ile 0 ile 20 arasında rastgele bir sayı iste
+kullanıcdanda bir sayı girmesi ve bu sayıyı tahmin etmesini isteyiniz
+kullanıcıya bu sayıyı bilmesi için arttır ve azalt diye kod yazdırınız

@@ -1,0 +1,10 @@
+3 tane kenar uzunluğunu alan değişken giriyoruz
+
+eğer bu kenarların hepsi eişt ise 
+print("bu bir eşkenar üçgendir")
+
+eğer bu kenarların 2 tanesi eşit ise:
+print("İkiz kenar üçgen")
+
+eğer bu kenarların hepsi farklı ise 
+print("Çeşitkenar üçgendir")

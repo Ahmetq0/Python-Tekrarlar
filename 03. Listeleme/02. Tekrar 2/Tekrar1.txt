@@ -1,0 +1,1 @@
+elemanlerı haftanın günleri olacak şekide bir liste yazdır

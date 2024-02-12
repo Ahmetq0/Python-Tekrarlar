@@ -1,0 +1,7 @@
+9) Çıktısı aşağıdaki gibi olan kodu yazınız.
+PPPPPPPPPP
+YYYYYYYYYY
+TTTTTTTTTT
+HHHHHHHHHH
+OOOOOOOOOO
+NNNNNNNNNN

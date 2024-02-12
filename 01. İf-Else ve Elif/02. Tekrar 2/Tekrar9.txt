@@ -1,0 +1,7 @@
+kullanıcının girdiği sıcaklık 
+
+5 derecenin altındaysa soğuk
+
+6-14 derece arasındaysa ılık
+
+15 dereceden afzla ise sıcak yazdır

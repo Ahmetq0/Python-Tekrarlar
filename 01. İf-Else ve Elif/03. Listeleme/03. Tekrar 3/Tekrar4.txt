@@ -1,0 +1,2 @@
+pazartesiden cumaya kadar bir liste oluşturunuz
+indeksi 4 olan elamanı bulunuz

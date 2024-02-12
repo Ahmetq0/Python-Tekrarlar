@@ -1,0 +1,1 @@
+01. Elemanları sırasıyla 4,12,18,33 olan sayıları toplamanı ekrana yazdırınız

@@ -1,0 +1,2 @@
+pazartesiden cumaya kadar haftanın günleri olan bir
+liste oluşturun listenin 4. elemanı olan indeksi ekrana yazdırın

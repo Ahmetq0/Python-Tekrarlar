@@ -1,0 +1,2 @@
+içerisinde haftanın günleri olan bir liste oluşturunuz
+ve indeksi 4 olanı bulunuz

@@ -1,0 +1,2 @@
+01.Rastgele 0 ile 20 arasında bir sayı seçiniz ve kullanıcının
+bu sayıyı tahmin etmesini isteyiniz. Kullanıcı sayıyı bilemez ise azalt ve arttır diye yazdırınız

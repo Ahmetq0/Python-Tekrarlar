@@ -1,0 +1,12 @@
+                                            Otobüs Terminal Apps
+DosyaBölümü:
+01)İlk olaraka terminal_engine diye bir dosya açılacak ve yazdığımız defler oraya yazılacak
+02)İkinci olaraka otobüs_terminal diye bir dosya açılacak ve terminal_enginede yazılanlar bu dosyada çalıştırılacak
+03)Otobüs terminalde terminal_engine kütüphanesi çağrılacak
+
+
+KodBölümü:
+01)İlk olaraka müşteriye uygulamamıza hoşgeldiniz diye selam verilecek ve hangi şehire seyehat etmek istersiniz diye sorulacak
+02)Ve sonra kullanıcıya hangi otobüs terminali ile gitmek istersiniz diyecek ve kullanıcının girdiği terminalde kontrol yapacak
+03)Eğer Kullanıcının girdiği şehir terminal gidiyor ise fiyatı sunulacak ve koltuk numarası söylenecek
+04)Müşteri seçimlerini yaptıktan sonra fatura sunulacak müşteri gitmeyi kabul eder ise İyi yolculuklar  diye uygulama kapanacak

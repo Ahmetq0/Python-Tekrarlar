@@ -1,0 +1,1 @@
+50’den 20’ye kadar olan sayıları 3’er azaltarak for döngüsü ile ekrana yazdırınız.

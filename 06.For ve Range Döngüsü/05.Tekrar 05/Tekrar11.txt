@@ -1,0 +1,3 @@
+01.Kullanıcıdan 1 ile 5 arasında rakam girmesini isteyiniz 
+eğer kullanıcı 3 rakamını girer ise
+print(3 girildiği için döngüden çıkıldı)

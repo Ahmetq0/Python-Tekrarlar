@@ -1,0 +1,10 @@
+kullanıcıdan tiyatromu 
+yoksa sinemaya mı gidecek sorulsun
+
+eğer müşteri sinemaya gidecek ise 15 
+
+eğer müşteri tiyatroya gidecek ise 10 tl ücret ödemesi lazım
+
+eğer müşteri öğrenci ise %50 indirim yapılsın 
+
+değilse indirim yapılmasın

@@ -1,0 +1,10 @@
+üçgen kenar uzunluklarına göre
+
+3 kenarda aynı ise
+print(Eşkenar üçgen)
+
+2 kenarda aynı ise
+print(İkiz kenar üçgen)
+
+hepsi farklı ise
+print(Çeşitkenar üçgen)

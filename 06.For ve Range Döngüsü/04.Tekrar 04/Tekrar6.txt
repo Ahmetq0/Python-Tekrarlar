@@ -1,0 +1,1 @@
+01.Girilen iki sayının arasındaki sayıların ortalamasını alan 

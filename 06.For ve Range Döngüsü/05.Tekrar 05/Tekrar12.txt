@@ -1,0 +1,7 @@
+01. Kullanıdan 8 karekterli bir şifre isteyiniz 
+eğer şifre 8 karekterli ise 
+print(Şifre kaydedildi)
+eğer şifre 8 karekterden büyük ise
+print(Şifre azalt)
+eğer şifre 8 karekterden küçük ise
+print(Şifre arttır)

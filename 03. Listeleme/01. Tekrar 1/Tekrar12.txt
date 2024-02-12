@@ -1,0 +1,6 @@
+12) onemli_telefonlar = {“Acil Çağrı Merkezi”:”112”, “Polis İmdat”:”155”, “Milli Eğitim Bakanlığı İletişim Merkezi”:”444 0 632” } 
+a)  önemli_bilgiler isimli sözlüğün değerlerini ekrana yazdırınız. 
+b)  önemli_bilgiler isimli sözlüğü siliniz. 
+c)  önemli_bilgiler isimli sözlükten Acil Çağrı Merkezi anahtarını ve değerini siliniz. 
+d) önemli_bilgiler isimli sözlükte Sağlık Bakanlığı İletişim Merkezi olup olmadığını sorgulayınız. 
+e) önemli_bilgiler isimli sözlüğü içi boş bir sözlük hâline getiriniz.

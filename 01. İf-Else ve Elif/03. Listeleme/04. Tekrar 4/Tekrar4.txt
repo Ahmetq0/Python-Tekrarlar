@@ -1,0 +1,2 @@
+pazartesiden cumaya kadar haftanın günleri olan bir liste oluşturunuz
+ve 4. indeksini bulunuz

@@ -1,0 +1,11 @@
+üc tane kenar diye  değişken giriniz
+
+eğer üç kenarda birbirine eşit ise:
+print(eşkenar)
+
+eğer iki kenar birbirine eşit ise:
+print(ikizkenar)
+
+eğer hepsi farklı ise:
+print(Çeşitkenar)
+

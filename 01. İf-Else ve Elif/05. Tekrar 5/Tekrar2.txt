@@ -1,0 +1,7 @@
+bir üçgenin iç açısı 180 
+
+eğer 3 değerin toplamı 180e eşit ise 
+print(Bu bir üçgendir)
+
+eğer değilse:
+print(Bu bir üçgen değildir)

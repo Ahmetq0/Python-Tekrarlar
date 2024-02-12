@@ -1,0 +1,1 @@
+8) Girilen plaka kodu 06 ise ekrana Ankara, 07 ise Antalya, 08 ise Artvin, bunların dışında girilen tüm değerlerde ise Türkiye çıktısı veren kodu yazınız.

@@ -1,0 +1,6 @@
+kullanıcıdan 
+ad maşş ve yıl grimesini iste
+0-5 yıl arasındaysa %10
+6-10 yıl arasındaysa %15
+11 yıl ve daha fazla ise %25
+zam yap

@@ -1,0 +1,12 @@
+# Kullanıcıdan aldığı 1.ürünün fiyatı istenicek
+# Kullanıcıdan aldığı 2.ürünün fiyatı istenicek
+
+# Kullanıcının almış olduğu 1.ürünün ve 2.ürünün fiyatları toplanıcak
+# Topalamın sonucu eğer 200 ve altı ise ekrana
+# "Toplam Fiyatınız ... TL'dir" yazısı yazılacak 
+
+# Kullanıcının almış olduğu 1.ürünün ve 2.ürünün fiyatları toplanıcak
+# Topalamın sonucu eğer 200 üstü ise 
+# Çıkan Toplama sonucuna %25 çıkarılacak 
+# Çıkarlıan sonuç Ekrana yazılacak
+# "İndirimden sonraki Fiyatınız ... TL'dir" yazısı yazılacak 

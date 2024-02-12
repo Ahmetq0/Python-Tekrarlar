@@ -1,0 +1,1 @@
+01.Girilen iki sayı arasındaki sayıların toplamını bulup ekrana yazdırınız

@@ -1,0 +1,13 @@
+kullanıcıdan 
+ad 
+maaş 
+çalışma yılı değişkenleri istensin
+
+eğer kullanıcı 0-5 arası çalışıyorsa %10 zam
+
+eğer kullanıcı 6-10 yıl arası çalışıyorsa %15 zam yapılsın
+
+eğer kullanıcı 11 ve daha fazla yıl çalıştıysa %25 zam yapılsın
+
+
+print(sayın (ad)zamlı maaşınız ....tl kadar)

@@ -1,0 +1,10 @@
+iki tane fiyat soran ürün değişkeni gir
+
+eğer ürün 200 tl altındaya:
+print(Ödemeniz gereken ücret ....)
+
+eğer ürün 200 tl üstündeyse %25 zam yaparak:
+print(zamdan sonra ödemeniz gerekn ek ücret ....)
+
+
+diye yazdır

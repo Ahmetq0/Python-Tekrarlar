@@ -1,0 +1,4 @@
+2)  1-30 arası tek sayıları for döngüsü ile ekrana yazdırınız. 
+
+
+

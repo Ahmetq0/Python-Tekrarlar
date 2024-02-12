@@ -1,0 +1,9 @@
+girilen plaka
+
+eğer 06 ise Ankara
+
+eğer 07 ise Antalya
+
+eğer 08 ise Artvin
+
+hiçbiri değilse Türkiye yazdır

@@ -1,0 +1,2 @@
+01.Kullanıcıdan bir ifade ve aranacak harf girmesini isteyiniz
+kullanıcının girdiği ifadede aranacak harf kaç tane olduğunu bulan kodu yazdırınız

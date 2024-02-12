@@ -1,0 +1,4 @@
+1)  0-20 arası çift sayıları for döngüsü ile ekrana yazdırınız. 
+
+2)  1-30 arası tek sayıları for döngüsü ile ekrana yazdırınız. 
+8) Elemanları sırasıyla 4, 12, 18, 33 olan sayılar ile sayilar isminde bir liste oluşturunuz. Listenin elemanlarını for döngüsü kullanarak toplayınız ve ekrana yazdırınız.

@@ -1,0 +1,1 @@
+01. 0 ile 20 arasındaki çift sayıları ekrana yazdırınız

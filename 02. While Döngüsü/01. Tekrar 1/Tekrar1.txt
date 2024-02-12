@@ -1,0 +1,1 @@
+1 ie 30 arasındaki tek sayıları while döngüsü ile yazdır

@@ -1,0 +1,24 @@
+ print("Hatim Hesaplama Uygulamasına Hoşgeldiniz") 
+
+# Kullanıcıdan hangi hatimi yaptırmak istediğini sorunuz:
+"Yasin Hatmi"
+"İhlas Hatmi"
+"Ayetel Kürsi Hatmi"
+
+# Kullanıcya halkada kaç kişi olduğunu sorunuz:
+
+# Kullanıcı yapmak istedğiğ hatimi seçip ve halkada kaç kişi olduğunu yazarsa:
+print("Hesaplama Başlıyor") çıktısını ver
+
+# Arka Plan İşlemler:
+
+Eğer Kullanıcı "Yasin Hatimi" ve "Halkada kaç kişi olduğunu yazdı" ise:
+print("Yasin hatimi için okunacak aded ...... diye yazdır)
+
+Eğer Kullanıcı "Ayetel Kürsi" ve "Halkada kaç kişi olduğunu yazdı" ise:
+print("Ayetel Kürsi hatimi için okunacak aded ..... diye yazdır)
+
+Eğer Kullanıcı "İhlas Hatimi" ve "Halkada kaç kişi olduğunu yazdı" ise:
+print("İhlas Hatimi için okunacak aded ...... diye yazdır)
+
+ print("Yine Bekleriz")

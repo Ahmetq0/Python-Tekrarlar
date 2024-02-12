@@ -1,0 +1,6 @@
+                                                Resturant Uygulaması
+1.)İlk olarak yemeklerin fiyatları ile beraber yazılı olduğu bir liste olacak
+2.)Sepet diye bir değişken tanımla ve girilen yemekler sepete eklenecek
+3.)Ve toplam paranın hesaplandığı bir total diye değişken olacak
+4.)While true değişkenini aç ve yemekleri yazdırmak için for döngüsünü kullan
+5.)Ve müşteriye yemek seçimi yaptır eğer müşteri yemek seçmek istemezse "q" veya "Q" ya basıp uygulamadan çıkış yapılsın

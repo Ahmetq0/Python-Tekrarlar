@@ -1,0 +1,5 @@
+                                             İnstagram Uygulaması
+01)Öncelikle Uygulamada kayıt olma ve giriş yapma ekrnaı gelecek ve kullanıcı işlemi yapacak
+02)Kayıt veya giriş yaptıktan sonra uygulama hoşgeldiniz diye selam verecek
+03)Kullanıcı yapmak istediği işlemi girecek ve o işlem çalışacak 
+ 

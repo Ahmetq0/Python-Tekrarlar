@@ -1,0 +1,4 @@
+Harfler = ["PPPPPPPPPP","YYYYYYYYYY","HHHHHHHHHH","TTTTTTTTTT","OOOOOOOOOO","NNNNNNNNNN"]
+
+for i in Harfler:
+    print(i)

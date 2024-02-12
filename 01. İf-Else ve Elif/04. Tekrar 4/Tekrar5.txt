@@ -1,0 +1,8 @@
+Kullanıcıdan kullanıcı adı ve şifre girmesini isteyiniz
+
+
+eğer kullanıcı adı "Türkiye" ve şifre "1923" ise:
+print(Giriş Başarılı desin)
+
+eğer değilse 
+print(Giriş başarısız desin)

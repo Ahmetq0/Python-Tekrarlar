@@ -1,0 +1,7 @@
+                                                   Resturant Uygulaması
+01.Yemek listesi olacak listenin içinde tatlı yemekler ve salatalar adlı 3 seçim olacak
+02.Tatlı listesi olacak,Yemek listesi olacak,Salata listesi olacak
+03.Müşteri Bu 3 seçimden hangisini seçer ise onun kategorileri çıkacak ve seçim yapacak
+04.Sepet diye bir değişken olacak
+05.Total diye bir değişken olacak
+06.While True döngüsü açılacak for ile liste seçim ekrana yazılacak
